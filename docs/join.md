@@ -6,6 +6,8 @@ icon: lucide/mail
 
 If you’re interested in working with us, [email Nick Mancuso](mailto:nmancuso@usc.edu?subject=Joining%20the%20Mancuso%20Lab). Tell us a little about your background, what drew you to our [research](research.md), and a question you’d like to explore.
 
+![Lab members gathered around a restaurant table for the 2025 Mancuso Lab dinner](assets/people/mancuso-lab-2025.jpg)
+
 ## Contact
 
 For collaborations or questions about our work, you can reach Nick at [nmancuso@usc.edu](mailto:nmancuso@usc.edu).

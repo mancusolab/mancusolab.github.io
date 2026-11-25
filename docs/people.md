@@ -22,13 +22,13 @@ Prior to joining USC, Nick was a postdoc in [Dr. Bogdan Pasaniuc’s lab](https:
 
 ## Current Lab Members
 
-- **Matthew B. Carr, PhD**
-- **Camellia Rui**
-- **Xinran Wang** — MS in Biostatistics, 2023
-- **Yifei Dai**
-- **Yumin Wang**
-- **Abdullah Al Nahid**
-- **Enmian Chang**
+- **Matthew B. Carr, PhD** — Postdoctoral Researcher, 2023–present
+- **Camellia Rui** — PhD in Biostatistics, 2022–present
+- **Xinran Wang** — PhD in Epidemiology, 2024–present
+- **Yifei Dai** — PhD in Biostatistics, 2024–present
+- **Yumin Wang** — PhD in Computational Biology and Bioinformatics, 2024–present
+- **Abdullah Al Nahid** — PhD in Pharmacy, 2024–present
+- **Enmian Chang** — PhD in Biostatistics, 2024–present
 
 ## Alumni
 
