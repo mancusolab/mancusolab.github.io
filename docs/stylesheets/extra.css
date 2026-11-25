@@ -20,6 +20,7 @@
 [data-md-color-scheme="slate"] {
   --md-default-bg-color: #1e1e2e;
   --md-default-fg-color: #cdd6f4;
+  --ctp-subtext1: #bac2de;
   --md-default-fg-color--light: #a6adc8;
   --md-default-fg-color--lighter: #6c7086;
   --md-default-fg-color--lightest: #313244;
@@ -52,9 +53,17 @@
   --md-footer-bg-color--dark: var(--md-default-bg-color);
 }
 
+.md-typeset :is(h1, h2, h3, h4, h5, h6) {
+  color: var(--md-default-fg-color);
+}
+
 .md-header__title, .md-typeset :is(h1, h2, h3) {
   font-family: "News Cycle", "Arial Narrow", sans-serif;
   font-weight: 700;
+}
+
+[data-md-color-scheme="slate"] .home-intro > p {
+  color: var(--ctp-subtext1);
 }
 
 .research-section {
