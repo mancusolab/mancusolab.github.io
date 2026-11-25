@@ -3,7 +3,7 @@ icon: lucide/house
 title: Mancuso Lab at USC
 ---
 
-# We are a computational genetics lab investigating genetic risk factors within and across diverse human populations.
+# We study how genetic variation shapes disease risk within and across populations.
 
 <div class="home-intro" markdown="1">
 
