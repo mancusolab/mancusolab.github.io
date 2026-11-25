@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap");
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #2f383e;
+}
+
+.md-header {
+  background-color: var(--md-primary-fg-color);
+  color: #fff;
+}
+
+.md-header__title, .md-typeset :is(h1, h2, h3) {
+  font-family: "News Cycle", "Arial Narrow", sans-serif;
+  font-weight: 700;
+}
+
+.lab-home {
+  max-width: 48rem;
+  margin-inline: auto;
+}
+
+.research-section {
+  container-type: inline-size;
+  display: flow-root;
+  margin-block: 2rem;
+}
+
+.research-section > h2:first-child {
+  margin-top: 0;
+}
+
+.md-typeset .research-plot {
+  width: min(100%, 450px);
+  margin: 1.5rem auto;
+}
+
+@container (min-width: 34rem) {
+  .research-row {
+    display: grid;
+    grid-template-columns: 46% 1fr;
+    gap: 5%;
+    align-items: start;
+  }
+
+  .research-row > p, .md-typeset .research-row > figure {
+    margin: 0;
+  }
+}
+
+.research-plot svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#mr-graph .links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+  stroke-width: 2px;
+}
+
+#mr-graph .nodes circle {
+  stroke: white;
+  stroke-width: 1.5px;
+}
+
+#mr-graph circle, #mr-graph text {
+  cursor: grab;
+}
+
+#my_dataviz svg {
+  fill: currentColor;
+}
