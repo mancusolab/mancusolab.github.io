@@ -4,13 +4,14 @@ icon: lucide/mail
 
 # Join the Lab
 
-If you’re interested in working with us, [email Nick Mancuso](mailto:nmancuso@usc.edu?subject=Joining%20the%20Mancuso%20Lab). Tell us a little about your background, what drew you to our [research](research.md), and a question you’d like to explore.
+We welcome inquiries from prospective trainees with some background in statistics, machine learning, or genetics. A foundation in any one of these areas is enough to get started. We can help you build skills in the others.
 
-![Lab members gathered around a restaurant table for the 2025 Mancuso Lab dinner](assets/people/mancuso-lab-2025.jpg)
+If you’d like to join us, tell us what interests you about our [research](research.md) and describe a course or project that helped prepare you. If you’re applying to graduate school, let us know which USC programs you’re considering. If you’re already a USC student, include your program and year. If you’re interested in a postdoc, include your anticipated start date.
 
-## Contact
+For trainee inquiries, collaborations, or questions about our work, email Nick at [nmancuso@usc.edu](mailto:nmancuso@usc.edu).
 
-For collaborations or questions about our work, you can reach Nick at [nmancuso@usc.edu](mailto:nmancuso@usc.edu).
+![Lab members preparing for ramen at the 2025 Mancuso Lab dinner](assets/people/mancuso-lab-2025.jpg) ![Lab photo for ASHG 2024](assets/people/ashg-2024.jpg)
+{: .lab-photos }
 
 ## Visit the lab
 

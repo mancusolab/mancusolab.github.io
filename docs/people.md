@@ -10,11 +10,7 @@ icon: lucide/users
 
 **Nicholas (Nick) Mancuso** ([nmancuso@usc.edu](mailto:nmancuso@usc.edu))
 
-Nick is an associate professor in the [Department of Population and Public Health Sciences](https://pphs.usc.edu/) and a member of the [Center for Genetic Epidemiology](https://keck.usc.edu/genetic-epidemiology-center/) at the [Keck School of Medicine of USC](https://keck.usc.edu/). He also holds a joint affiliation in the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/).
-
-Nick’s lab develops computational methods to identify genes and cell types that may contribute to complex disease risk. The lab also studies how natural selection shapes the effects of genetic variants across populations.
-
-Prior to joining USC, Nick was a postdoc in [Dr. Bogdan Pasaniuc’s lab](https://labs.dgsom.ucla.edu/bogdan/pages/) at UCLA. Before that, he received his PhD in Computer Science from Georgia State University studying with [Dr. Alex Zelikovsky](https://cas.gsu.edu/profile/alex-zelikovsky/).
+Nick is an associate professor in the [Department of Population and Public Health Sciences](https://pphs.usc.edu/) and a member of the [Center for Genetic Epidemiology](https://keck.usc.edu/genetic-epidemiology-center/) at the [Keck School of Medicine of USC](https://keck.usc.edu/). He also holds a joint affiliation in the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/). Nick’s lab develops computational methods to identify genes and cell types that may contribute to complex disease risk. The lab also studies how natural selection shapes the effects of genetic variants across populations. Prior to joining USC, Nick was a postdoc in [Dr. Bogdan Pasaniuc’s lab](https://labs.dgsom.ucla.edu/bogdan/pages/) at UCLA. Before that, he received his PhD in Computer Science from Georgia State University studying with [Dr. Alex Zelikovsky](https://cas.gsu.edu/profile/alex-zelikovsky/).
 
 [:fontawesome-brands-bluesky:](https://bsky.app/profile/nmancuso.bsky.social){ aria-label="Nick Mancuso on Bluesky" }
 [:fontawesome-brands-twitter:](https://twitter.com/nmancuso_){ aria-label="Nick Mancuso on Twitter" }

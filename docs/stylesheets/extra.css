@@ -110,6 +110,18 @@
   }
 }
 
+.lab-photos {
+  display: grid;
+  /* Size each column to its photo's aspect ratio for a common height. */
+  grid-template-columns: minmax(0, 1.778fr) minmax(0, 1.327fr);
+  gap: 4px;
+}
+
+.lab-photos img {
+  width: 100%;
+  height: auto;
+}
+
 .lab-map {
   display: block;
   width: 100%;
