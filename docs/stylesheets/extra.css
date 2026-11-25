@@ -66,6 +66,39 @@
   color: var(--ctp-subtext1);
 }
 
+.md-footer-meta__inner .md-copyright {
+  flex: 1;
+  width: auto;
+}
+
+.keck-logo {
+  align-self: center;
+  display: block;
+  width: 120px;
+  margin-inline: .6rem;
+}
+
+.keck-logo svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (min-width: 60em) {
+  .keck-logo {
+    margin-inline-end: 1.2rem;
+  }
+}
+
+/* Keck's gold and white wordmark for dark backgrounds. */
+[data-md-color-scheme="slate"] .keck-logo #shield {
+  fill: #fc0;
+}
+
+[data-md-color-scheme="slate"] .keck-logo #text {
+  fill: #fff;
+}
+
 .research-section {
   container-type: inline-size;
   display: flow-root;

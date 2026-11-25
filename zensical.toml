@@ -27,6 +27,7 @@ nav = [
 [project.theme]
 variant = "modern"
 custom_dir = "overrides"
+icon.logo = "lucide/dna"
 icon.repo = "octicons/mark-github-16"
 
 [[project.theme.palette]]

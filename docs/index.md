@@ -6,7 +6,7 @@ title: Mancuso Lab at USC
 
 <div class="home-intro" markdown="1">
 
-We are part of the [Center for Genetic Epidemiology](https://keck.usc.edu/genetic-epidemiology-center/) and the Biostatistics division in the [Department of Population and Public Health Sciences](https://pphs.usc.edu/) at USC Keck School of Medicine.
+We develop statistical and computational methods to understand how genetic variation influences complex traits and disease risk. We combine genome-wide association studies with measurements of molecular traits in tissues and individual cells to identify candidate variants, genes, and cell types underlying disease associations across populations. We also study how rare and common variants contribute to complex traits and how natural selection shapes the distribution of their effects.
 
-Our research aims to develop novel computational and statistical approaches to understand the genetic etiology of complex diseases. This includes integrating molecular phenotypes (e.g., gene expression, protein abundance) with large-scale genome-wide association studies, characterizing the genetic architecture of complex disease (e.g., rare vs common variation), and quantifying the role of selection in shaping the effect-size distribution for alleles.
+We are part of the [Center for Genetic Epidemiology](https://keck.usc.edu/genetic-epidemiology-center/) and the Biostatistics division in the [Department of Population and Public Health Sciences](https://pphs.usc.edu/) at USC Keck School of Medicine.
 </div>
