@@ -13,6 +13,7 @@ nav = [
   { People = "people.md" },
   { Publications = "publications.md" },
   { Software = "software.md" },
+  { Teaching = "teaching.md" },
   { Blog = "blog/index.md" },
 ]
 
@@ -26,6 +27,7 @@ nav = [
 [project.theme]
 variant = "modern"
 custom_dir = "overrides"
+icon.repo = "octicons/mark-github-16"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
