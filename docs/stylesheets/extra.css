@@ -1,22 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap");
 
-[data-md-color-scheme="slate"] {
-  --md-default-bg-color: #2f383e;
-}
-
-.md-header {
-  background-color: var(--md-primary-fg-color);
-  color: #fff;
-}
-
 .md-header__title, .md-typeset :is(h1, h2, h3) {
   font-family: "News Cycle", "Arial Narrow", sans-serif;
   font-weight: 700;
-}
-
-.lab-home {
-  max-width: 48rem;
-  margin-inline: auto;
 }
 
 .research-section {

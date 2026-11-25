@@ -11,24 +11,30 @@ nav = [
   { People = "people.md" },
   { Publications = "publications.md" },
   { Software = "software.md" },
-  { Tutorials = "tutorials/index.md" },
   { Blog = "blog/index.md" },
 ]
 
+[project.plugins.blog]
+
+[project.plugins.tags]
+
+[project.plugins.redirects.redirect_maps]
+"tutorials/index.md" = "blog/index.md"
+
 [project.theme]
+variant = "classic"
 custom_dir = "overrides"
-features = ["navigation.tabs"]
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
-primary = "blue grey"
+primary = "indigo"
 accent = "teal"
 toggle = { icon = "material/brightness-7", name = "Switch to dark mode" }
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
-primary = "blue grey"
+primary = "indigo"
 accent = "teal"
 toggle = { icon = "material/brightness-4", name = "Switch to light mode" }
