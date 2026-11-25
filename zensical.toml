@@ -15,6 +15,7 @@ nav = [
   { Software = "software.md" },
   { Teaching = "teaching.md" },
   { Blog = "blog/index.md" },
+  { "Join the Lab" = "join.md" },
 ]
 
 [project.plugins.blog]

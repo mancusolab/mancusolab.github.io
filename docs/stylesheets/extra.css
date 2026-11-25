@@ -99,6 +99,24 @@
   fill: #fff;
 }
 
+.people-portrait {
+  height: auto;
+}
+
+@media (min-width: 40em) {
+  .people-portrait {
+    float: left;
+    margin: 0 1rem .5rem 0;
+  }
+}
+
+.lab-map {
+  display: block;
+  width: 100%;
+  height: clamp(16rem, 32vw, 22rem);
+  border: 0;
+}
+
 .research-section {
   container-type: inline-size;
   display: flow-root;

@@ -1,3 +1,7 @@
+---
+icon: lucide/chart-scatter
+---
+
 # Research
 
 <section class="research-section" markdown="1">

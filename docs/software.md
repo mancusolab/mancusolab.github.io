@@ -1,3 +1,7 @@
+---
+icon: lucide/code-xml
+---
+
 # Software
 
 [:octicons-mark-github-16: Browse the lab’s software repositories on GitHub](https://github.com/mancusolab)

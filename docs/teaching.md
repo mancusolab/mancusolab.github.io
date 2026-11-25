@@ -1,3 +1,7 @@
+---
+icon: lucide/graduation-cap
+---
+
 # Teaching
 
 ## PM520 — Advanced Statistical Computing

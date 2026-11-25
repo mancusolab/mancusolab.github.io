@@ -1,4 +1,5 @@
 ---
+icon: lucide/house
 title: Mancuso Lab at USC
 ---
 

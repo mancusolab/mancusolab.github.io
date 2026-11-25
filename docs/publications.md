@@ -1,3 +1,7 @@
+---
+icon: lucide/files
+---
+
 # Publications
 
 Find us on [Google Scholar](https://scholar.google.com/citations?user=NfbpWAoAAAAJ), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Mancuso+Nicholas%5BFull+Author+Name%5D), or [DBLP](https://dblp.org/search?q=Nicholas%20Mancuso). † indicates equal contribution.
