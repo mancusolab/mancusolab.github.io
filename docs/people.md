@@ -21,9 +21,16 @@ Nick is an associate professor in the [Department of Population and Public Healt
 
 - **Matthew B. Carr, PhD** — Postdoctoral Researcher, 2023–present
 - **Camellia Rui** — PhD in Biostatistics, 2022–present
-- **Xinran Wang** — PhD in Epidemiology, 2024–present
 - **Abdullah Al Nahid** — PhD in Pharmacy, 2024–present
 - **Enmian Chang** — PhD in Biostatistics, 2024–present
+
+<div id="xinran-wang" class="member-bio" markdown="1">
+
+![Portrait of Xinran Wang](assets/people/xinran-wang.jpg){ .people-portrait width="180" height="180" }
+
+**Xinran Wang** is a third-year PhD student in Epidemiology, specializing in Genetic Epidemiology. Her research encompasses QTL studies in prostate cancer, GWAS meta-analysis and post-GWAS analyses of hyperemesis gravidarum, development of a transcriptome-wide association study (TWAS) simulator, extension of ancestral recombination graph (ARG)-based association methods to fine-mapping, evaluation of the new MEC imputation reference panel, and genetic studies of understudied populations, particularly Native Hawaiian and Samoan populations. [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xinran-wang-67433b14a/){ aria-label="Xinran Wang on LinkedIn" } [:octicons-mark-github-16:](https://github.com/xinranwang111){ aria-label="Xinran Wang on GitHub" } [:fontawesome-brands-twitter:](https://x.com/xwang505){ aria-label="Xinran Wang on Twitter" }
+
+</div>
 
 <div id="yifei-dai" class="member-bio" markdown="1">
 
