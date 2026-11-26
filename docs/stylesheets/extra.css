@@ -99,6 +99,10 @@
   fill: #fff;
 }
 
+.member-bio {
+  display: flow-root;
+}
+
 .people-portrait {
   height: auto;
 }

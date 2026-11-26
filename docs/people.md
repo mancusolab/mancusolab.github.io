@@ -15,16 +15,31 @@ Nick is an associate professor in the [Department of Population and Public Healt
 [:fontawesome-brands-bluesky:](https://bsky.app/profile/nmancuso.bsky.social){ aria-label="Nick Mancuso on Bluesky" }
 [:fontawesome-brands-twitter:](https://twitter.com/nmancuso_){ aria-label="Nick Mancuso on Twitter" }
 [:octicons-mark-github-16:](https://github.com/quattro){ aria-label="Nick Mancuso on GitHub" }
+[:fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=NfbpWAoAAAAJ){ aria-label="Nick Mancuso on Google Scholar" }
 
 ## Current Lab Members
 
 - **Matthew B. Carr, PhD** — Postdoctoral Researcher, 2023–present
 - **Camellia Rui** — PhD in Biostatistics, 2022–present
 - **Xinran Wang** — PhD in Epidemiology, 2024–present
-- **Yifei Dai** — PhD in Biostatistics, 2024–present
-- **Yumin Wang** — PhD in Computational Biology and Bioinformatics, 2024–present
 - **Abdullah Al Nahid** — PhD in Pharmacy, 2024–present
 - **Enmian Chang** — PhD in Biostatistics, 2024–present
+
+<div id="yifei-dai" class="member-bio" markdown="1">
+
+![Portrait of Yifei Dai](assets/people/yifei-dai.png){ .people-portrait width="180" height="189" }
+
+**Yifei Dai** is a third-year PhD student in Biostatistics at USC. He joined the lab in 2024. His research focuses on statistical genetics, particularly developing methods for single-cell eQTL fine-mapping to understand how genetic variation affects gene expression across cell types. Outside the lab, he enjoys playing electric guitar and video games. [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/yifei-d-2ab347249){ aria-label="Yifei Dai on LinkedIn" }
+
+</div>
+
+<div id="yumin-wang" class="member-bio" markdown="1">
+
+![Portrait of Yumin Wang](assets/people/yumin-wang.jpg){ .people-portrait width="180" height="180" }
+
+**Yumin Wang** is a Ph.D. student in Computational Biology and Bioinformatics whose research focuses on how genetic variation shapes gene regulation across cell types. He joined the lab in 2024. He combines statistical genetics, single-cell transcriptomics, and machine learning to study RNA kinetics and uncover mechanisms underlying complex traits and diseases. He previously earned a master’s degree in Biomedical Informatics from Harvard University. [:fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=eHd4G2cAAAAJ&hl=en){ aria-label="Yumin Wang on Google Scholar" } [:lucide-globe:](https://yumin-wang.github.io/){ aria-label="Yumin Wang’s personal website" }
+
+</div>
 
 ## Alumni
 
